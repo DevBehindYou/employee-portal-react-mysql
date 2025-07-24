@@ -52,6 +52,8 @@ npm run dev
 ###Database Schema
 
 ```bash
+database name: employee
+
 employee_details:
 emp_id: INT, Auto Increment, Primary Key
 username: VARCHAR
